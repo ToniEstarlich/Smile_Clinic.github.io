@@ -13,3 +13,4 @@ Billing and Invoicing: Demonstrate the generation and management of sample bills
 User-Friendly Interface: Experience the user-friendly design and navigation of the application, suitable for clinic staff with varying levels of technical proficiency.
 Get Involved
 While the Smile Clinic Web App is a fictional project, contributions and feedback are welcome to improve its functionality and user experience. Whether you have suggestions for enhancements or would like to contribute mock data or design ideas, your participation is valued.
+![SmileClinic](https://github.com/ToniEstarlich/Smile_Clinic.github.io/assets/110102891/b8f14f38-41b8-41bf-9837-0a8f804145d8)
